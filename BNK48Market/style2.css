@@ -1,0 +1,144 @@
+@charset "UTF-8";
+
+body{
+	
+}
+/* MANAGEWEBSITEORIGINAL START HERE */
+.managewebsiteoriginal-bar{
+	width:100%;
+	overflow:hidden
+}.managewebsiteoriginal-center .managewebsiteoriginal-bar{
+	display:inline-block;
+	width:auto
+}
+
+.managewebsite-mainbar{
+	display: flex;
+	flex: 0 0 100%;
+}
+
+.managewebsiteoriginal-bar .managewebsiteoriginal-bar-main{
+	padding:16px 16px;
+	width:auto;
+	border:none;
+	display:block;
+	outline:0;
+	font-size: 1em;
+}
+
+.managewebsiteoriginal-bar .managewebsiteoriginal-bar-item{
+	padding:8px 16px;
+	float:left;
+	width:auto;
+	border:none;
+	display:block;
+	outline:0;
+}
+
+.managewebsiteoriginal-bar .managewebsiteoriginal-dropdown-hover,.managewebsiteoriginal-bar .managewebsiteoriginal-dropdown-click{
+	position:static;
+	float:left;
+}
+
+.managewebsiteoriginal-bar .managewebsiteoriginal-button{
+	white-space:normal;
+}
+
+.managewebsiteoriginal-bar-block .managewebsiteoriginal-bar-item{
+	width:100%;
+	display:block;
+	padding:8px 16px;
+	text-align:left;
+	border:none;
+	white-space:normal;
+	float:none;
+	outline:0;
+}
+
+.managewebsiteoriginal-bar-block.managewebsiteoriginal-center .managewebsiteoriginal-bar-item{
+	text-align:center
+
+}.managewebsiteoriginal-block{display:block;
+	width:100%
+}
+
+.managewebsiteoriginal-black,.managewebsiteoriginal-hover-black:hover{color:#fff!important;
+	background-color:#000;
+}
+
+.managewebsiteoriginal-red,.managewebsiteoriginal-hover-red:hover{color:black!important;
+	background-color:#fcf0f0!important;
+}
+
+.managewebsiteoriginal-red2,.managewebsiteoriginal-hover-red2:hover{color:black!important;
+	background-color:#ea709a!important;
+}
+
+.managewebsiteoriginal-container,.managewebsiteoriginal-panel{padding:0.01em 16px;
+}
+
+.managewebsiteoriginal-panel{margin-top:16px;
+	margin-bottom:16px;
+}
+
+.managewebsiteoriginal-button{
+	background-color: #D9D9D9;
+}
+.managewebsiteoriginal-main-button{
+	background-color: #D9D9D9;
+}
+.managewebsiteoriginal-button:hover{
+	background-color: #fcf0f0;
+}
+.managewebsiteoriginal-main-button:hover{
+	background-color: #ea709a;
+}
+
+/* MANAGEWEBSITE START HERE */
+
+.managewebsite-bar-button{
+}
+
+.managewebsite-colomn{
+	background-color: wheat;
+	text-align: center;
+}
+
+.managewebsite-row{
+	background-color:#ffffcc;
+	text-align: center;
+}
+
+.managewebsite-memberandset-table-column{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.managewebsite-memberandset-table-row{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+.managewebsite-addandchangestatus-item{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.managewebsite-addandchangestatus-item-status{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 100px;
+	height: 40px;
+	font:1em sans-serif;
+}
+
+.managewebsite-addandchangestatus-button{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+/* .allitem{
+	display: none;
+} */
